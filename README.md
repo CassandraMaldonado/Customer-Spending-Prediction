@@ -16,6 +16,9 @@ This repo contains two exploratory and modeling notebooks that aim to analyze an
 3. Customer_spending_pred.ipynb: A refined notebook focused on predictive modeling. It includes:
 
 	•	Feature selection
+
 	•	Supervised learning models
+
 	•	Model evaluation using cross-validation
+
 	•	Insights and recommendations for future work
