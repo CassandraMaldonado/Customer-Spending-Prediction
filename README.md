@@ -4,12 +4,14 @@ This repo contains two exploratory and modeling notebooks that aim to analyze an
 
 ## Contents
 1. Customer_spending.ipynb: An initial exploratory data analysis notebook. It includes:
+   
 	•	Data cleaning
 	•	Exploratory visualizations
 	•	Feature engineering
 	•	Baseline model setup
 
-2. Customer_spending_pred.ipynb: A refined notebook focused on predictive modeling. It includesÑ
+3. Customer_spending_pred.ipynb: A refined notebook focused on predictive modeling. It includes:
+
 	•	Feature selection
 	•	Supervised learning models
 	•	Model evaluation using cross-validation
